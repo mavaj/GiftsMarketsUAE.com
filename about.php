@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Homayon Mahdi Commercial Brokerage L.L.C">
+        <meta name="description" content="Gifts Markets General Trading at UAE .">
         <meta name="author" content="http://www.MavajSunCo.com">
 
         <title>Welcome to Gifts Markets UAE website</title>
@@ -98,7 +98,7 @@
                             At Gifts Markets we aim to provide our customers with excellent shopping experience, offering a wide range of, general merchandise, seasonal products, and a good mix of everyday customer products sourced globally at irresistible price.
                         </p>
                     </div>
-              
+
                 </div>
 
             </div>

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Homayon Mahdi Commercial Brokerage L.L.C">
+        <meta name="description" content="Gifts Markets General Trading at UAE .">
         <meta name="author" content="http://www.MavajSunCo.com">
 
         <title>Welcome to Gifts Markets UAE website</title>
@@ -117,7 +117,7 @@
                         <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
                         <li class="tooltip-social google-plus-link"><a href="#google-plus-page" data-toggle="tooltip" data-placement="top" title="Google+"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
                     </ul>
-                
+
                 </div>
 
             </div><!-- /.row -->
