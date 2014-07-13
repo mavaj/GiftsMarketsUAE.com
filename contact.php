@@ -111,6 +111,12 @@
                     <p><i class="fa fa-phone"></i> <abbr title="Phone">P</abbr>: +971.6.5394741</p>
                     <p><i class="fa fa-phone"></i> <abbr title="Fax">F</abbr>: +971.6.5394740</p>
                     <p><i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:info@GiftsMarketsUAE.com">info@GiftsMarketsUAE.com</a></p>
+                    <hr/>
+                    <h4><i class="fa fa-clock-o"></i> Working Hours</h4>
+                    <p>SAT-WED :  9:00 am to 12:00 am</p>
+                    <p>THU     :  9:00 am to 12:30 am</p>
+                    <p>FRI     :  2:30 pm to 12:30 pm</p>
+                    
                     <ul class="list-unstyled list-inline list-social-icons">
                         <li class="tooltip-social facebook-link"><a href="http://www.facebook.com/giftsmarkets" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
                         <li class="tooltip-social linkedin-link"><a href="#linkedin-company-page" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
